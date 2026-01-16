@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeOndria Fallen - Digital CV</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- Header / Name and Contact -->
+    <header>
+      <h1>DeOndria Fallen</h1>
+      <p class="contact-info">
+        Email: fallendeondria@gmail.com | Phone: 706-267-0624 | LinkedIn: linkedin.com/in/yourprofile
+      </p>
+    </header>
+
+    <!-- Professional Summary -->
+    <section>
+      <h2>Professional Summary</h2>
+      <p>
+        Motivated and detail-oriented aspiring professional with experience in healthcare, nursing, and criminal justice studies.
+        Skilled in communication, problem-solving, and interdisciplinary teamwork. Committed to building a strong career
+        combining healthcare knowledge and criminal justice expertise.
+      </p>
+    </section>
+
+    <!-- Skills -->
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>Certified Phlebotomy Skills</li>
+        <li>Patient Care & Health Support</li>
+        <li>Time Management</li>
+        <li>Team Collaboration</li>
+        <li>Problem Solving</li>
+      </ul>
+    </section>
+
+    <!-- Experience -->
+    <section>
+      <h2>Experience</h2>
+      <article>
+        <h3>Job Title – Company Name</h3>
+        <p>Dates Worked: Month Year – Month Year</p>
+        <ul>
+          <li>Performed daily responsibilities efficiently in healthcare and administrative settings.</li>
+          <li>Collaborated with team members and supervisors to complete projects and tasks.</li>
+          <li>Maintained attention to detail and ensured accuracy in patient and client records.</li>
+        </ul>
+      </article>
+    </section>
+
+    <!-- Education -->
+    <section>
+      <h2>Education</h2>
+      <article>
+        <h3>Bachelor of Criminal Justice (In Progress)</h3>
+        <p>Strayer University | Expected Graduation: December 2026</p>
+      </article>
+      <article>
+        <h3>Associates Degree in Nursing (Interdisciplinary Studies)</h3>
+        <p>Augusta Tech | Graduated: 2024</p>
+      </article>
+      <article>
+        <h3>High School Diploma</h3>
+        <p>Lucy Craft Laney | May 2022</p>
+      </article>
+    </section>
+
+    <!-- Certifications / Awards Table -->
+    <section>
+      <h2>Certifications & Awards</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Organization</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Certified Phlebotomist</td>
+            <td>NHS</td>
+            <td>December 2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- Footer / Additional Info -->
+    <footer>
+      <p>
+        Portfolio: yourportfolio.com | GitHub: github.com/yourusername
+      </p>
+    </footer>
+
+  </div>
+</body>
+</html>
